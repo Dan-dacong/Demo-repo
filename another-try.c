@@ -9,6 +9,6 @@ int main()
     sum=a+b;
     diff=a-b;
     printf("the sum of two numbers entered %d and %d equals to %d\n", a, b, sum);
-    printf("the difference between two numbers %d and %d isis:", a, b, diff);
+    printf("the difference between two numbers %d and %d is: %d\n", a, b, diff);
     return 0;
 }
